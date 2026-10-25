@@ -1,7 +1,5 @@
 # Azure Infrastructure & Serverless Labs
 
-Suggested repo name: `azure-infra-and-serverless-labs`
-
 ## Description
 
 This repo has my notes from two Azure labs I did for my Public Cloud course.
